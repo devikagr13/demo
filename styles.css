@@ -2,6 +2,15 @@
     padding: 0;
     margin: 0;
     }
+@font-face {
+font-family: 'Roboto', sans-serif;
+    src:url('assets/Roboto-Medium.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+body * {
+font-family: 'Roboto', sans-serif!important;
+}
 .page1{
     height:725px;
 }

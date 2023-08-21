@@ -800,3 +800,10 @@ animation-iteration-count: 1;
     transform: translateX(0px);
 }
 }
+
+.video{
+      text-align:center;
+      border-radius:5px;
+      color:gold;
+      margin-left:38%;
+}

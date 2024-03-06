@@ -14,17 +14,13 @@ font-family: 'Roboto', sans-serif!important;
 .page1{
     height:825px;
 }
-.image{
-    height: 300px;
-    width: 70%;
-}
     
 .white{
     background-color: white;
     flex-basis: 70%;
 }
 .black{
-    background-color: black;
+    background-color: beige;
     width: 30%;
     display: flex;
     margin-left: 70%;

@@ -12,7 +12,7 @@ body * {
 font-family: 'Roboto', sans-serif!important;
 }
 .page1{
-    height:825px;
+    height:800 px;
 }
 .white{
     background-color: white;
@@ -23,7 +23,7 @@ font-family: 'Roboto', sans-serif!important;
     width: 30%;
     display: flex;
     margin-left: 70%;
-    height: 725px;
+    height: 800 px;
 }
 .title{
     position:absolute;

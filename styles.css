@@ -487,7 +487,9 @@ animation-timing-function: ease-in;
 .img1{
 margin-left: 200px;
 margin-top:80px;
-    width: 50%;
+    width: 100px;
+    height:80px;
+    
 position:absolute;
 animation-name:img1;
 animation-duration: 1s;
@@ -566,7 +568,8 @@ color: black;
 .img3{
 margin-left: 200px;
 margin-top:450px;
-        width: 50%;
+        width: 100px;
+    height:80px;
 
 position:absolute;
 animation-name:img3;
